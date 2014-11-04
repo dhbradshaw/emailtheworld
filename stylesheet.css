@@ -1,0 +1,34 @@
+:root {
+  --main-bg-color: brown;
+}
+
+body {
+	background-color: #AAAAAA
+}
+
+h1 {
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: #444444;
+	background-color: var(--main-bg-color);
+}
+
+h2 {
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: #444444;
+}
+
+p {
+	font-family: Tahoma;
+	font-size: 1em;
+	padding-left: 15em;
+	padding-right: 15em;
+}
+
